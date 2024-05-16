@@ -1,0 +1,20 @@
+.contenedor-perfil {
+    border: 2 px solid black;
+    border-radius: 10 px;
+}
+
+.imagen-perfil{
+    width: 100 px;
+    height: 100 px;
+    border-radius: 50 px;
+    justify-self: center;
+}
+
+p{
+    padding-left: 10 px;
+}
+
+ul li{
+    font-size: x-large;
+    color:rgb(165, 124, 42);
+}
